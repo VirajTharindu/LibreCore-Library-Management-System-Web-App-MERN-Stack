@@ -63,11 +63,11 @@ If deeper technical access is required, it can be provided upon request.
 
 | Common Login |
 |---------------|
-| ![](docs/screenshots/1_Common_login.png) |
+| ![](docs/screenshots/1_common_login.png) |
 
 | Common Register |
 |---------------|
-| ![](docs/screenshots/2_Common_register.png) |
+| ![](docs/screenshots/2_common_register.png) |
 
 | Member Dashboard |
 |---------------|
