@@ -61,11 +61,11 @@ If deeper technical access is required, it can be provided upon request.
 
 # 📸 Screenshots
 
-| Public Login |
+| Common Login |
 |---------------|
 | ![](docs/screenshots/1_Common_login.png) |
 
-| Public Register |
+| Common Register |
 |---------------|
 | ![](docs/screenshots/2_Common_register.png) |
 
