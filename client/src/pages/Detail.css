@@ -1,0 +1,58 @@
+.detail-page {
+  max-width: 560px;
+}
+
+.detail-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.detail-header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.detail-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.detail-list {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5rem 1.5rem;
+  margin: 0 0 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+}
+
+.detail-list dt {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+.detail-list dd {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.detail-back {
+  margin: 0;
+}
+
+.detail-back a {
+  color: var(--text-muted);
+}
+
+.detail-back a:hover {
+  color: var(--accent);
+}

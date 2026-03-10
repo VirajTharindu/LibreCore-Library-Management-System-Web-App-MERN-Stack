@@ -1,0 +1,49 @@
+.borrowings-page h1 {
+  margin: 0 0 1rem;
+  font-size: 1.5rem;
+}
+
+.borrowings-page section {
+  margin-bottom: 1.5rem;
+}
+
+.borrowings-page h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.borrowings-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.borrowings-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border);
+  gap: 0.75rem;
+}
+
+.borrowings-item:last-child {
+  border-bottom: none;
+}
+
+.borrowings-item.returned {
+  opacity: 0.8;
+}
+
+.borrowings-meta {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+}
