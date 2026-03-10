@@ -39,6 +39,8 @@ desktop.ini
 # IDEs and Editors
 .idea/
 .vscode/
+.cursor/
+.cursorrules
 *.swp
 *.swo
 
@@ -50,3 +52,6 @@ desktop.ini
 # Ignore local AI agent brain/artifact data if present inside project folder
 .gemini/
 .agents/
+
+# Ignore downloaded AI implementation documents
+docs/ai_artifacts/
