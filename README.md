@@ -36,6 +36,7 @@ The system focuses on **real-time collaboration, a clean user interface, and rob
 
 The following resources demonstrate the system's behavior:
 
+- 📹 [Product Video](#-product-video)
 - 📸 [Screenshots of key features](#-screenshots)
 - ⚙️ [System architecture overview](#%EF%B8%8F-architecture-overview)
 - 🧠 [Engineering lessons](#-engineering-lessons)
@@ -50,15 +51,23 @@ If deeper technical access is required, it can be provided upon request.
 
 ---
 
+# 📹 Product Video
+
+> **[DEMONSTRATION PENDING]**
+
+*A comprehensive video or GIF of the system's walkthrough demonstrating the Architecture, engines, and core workflows is available soon!*
+
+---
+
 # 📸 Screenshots
 
 | Public Login |
 |---------------|
-| ![](docs/screenshots/1_public_login.png) |
+| ![](docs/screenshots/1_Common_login.png) |
 
 | Public Register |
 |---------------|
-| ![](docs/screenshots/2_public_register.png) |
+| ![](docs/screenshots/2_Common_register.png) |
 
 | Member Dashboard |
 |---------------|
